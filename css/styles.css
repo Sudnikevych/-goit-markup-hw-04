@@ -138,6 +138,8 @@ body {
   margin-right: 10px;
 }
 
+.header-link:hover,
+.header-link:focus,
 .header-contacts-link:hover,
 .header-contacts-link:focus {
   color: var(--accent-text-color);
