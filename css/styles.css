@@ -139,10 +139,11 @@ body {
 }
 
 .header-link:hover,
-.header-link:focus,
+.header-link:focus {
+  color: var(--accent-text-color);
+}
 .header-contacts-link:hover,
 .header-contacts-link:focus {
-  color: var(--accent-text-color);
   fill: var(--accent-text-color);
 }
 
